@@ -4,6 +4,7 @@
 ## 拡張する上で必要な物
 - manifest.jsonとmain.jsが必要  
 - manifest.jsonにはプラグインの説明などを書く  
+- ファイル自体はhttps://developer.adobe.com/console/homeで簡単に作成できます  
 - main.jsには拡張したい機能を書く  
 - 配置場所は使用するXDの開発者フォルダ(developフォルダ)  
 
