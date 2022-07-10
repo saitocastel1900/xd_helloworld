@@ -1,0 +1,22 @@
+{
+  "id": "MY_HELLO_WORLD",
+  "name": "Hello World plugin",
+  "description": "Hello, Worldを表示するプラグイン",
+  "version": "1.0.0",
+  "icons": [
+    { "width": 24, "height": 24, "path": "images/icon@1x.png" },
+    { "width": 48, "height": 48, "path": "images/icon@2x.png" }
+  ],
+  "host": {
+    "app": "XD",
+    "minVersion": "13.0.0"
+  },
+  "uiEntryPoints": [
+    {
+      "type": "menu",
+      "label": "write hello",
+      "commandId": "helloCommand",
+      "shortcut": { "mac": "Cmd+Shift+T", "win": "Shift+Alt+T" }
+    }
+  ]
+}
