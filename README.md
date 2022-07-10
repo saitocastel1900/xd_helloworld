@@ -14,4 +14,5 @@
 
 ## 参考
 https://blog.adobe.com/jp/publish/2018/10/15/web-getting-started-with-xd-plugin-development  
-https://adobexdplatform.com/plugin-docs/reference/how-to-read.html
+https://adobexdplatform.com/plugin-docs/reference/how-to-read.html  
+https://wasabitaro.com/xd/plugin
