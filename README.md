@@ -8,4 +8,8 @@
 -配置場所は使用するXDの開発者フォルダ(developフォルダ)  
 
 ## 実行する
+-XD>プラグイン>開発版>読み込みで作ったプラグインを読み込む  
+-読み込むことができるとプラグインから実行できるようなる
 
+## 参考
+https://blog.adobe.com/jp/publish/2018/10/15/web-getting-started-with-xd-plugin-development
