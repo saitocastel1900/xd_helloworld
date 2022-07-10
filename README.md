@@ -13,4 +13,5 @@
 2. 読み込むことができるとプラグインから実行できるようなる
 
 ## 参考
-https://blog.adobe.com/jp/publish/2018/10/15/web-getting-started-with-xd-plugin-development
+https://blog.adobe.com/jp/publish/2018/10/15/web-getting-started-with-xd-plugin-development  
+https://adobexdplatform.com/plugin-docs/reference/how-to-read.html
